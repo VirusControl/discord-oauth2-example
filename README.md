@@ -1,5 +1,7 @@
 # Create Application
 
+hey
+
 While the API/Documentation site is not released. An application must be created manually. Grab your `Authorization` header by using Chrome's Web Inspector and make an API request as yourself.
 
 ```
